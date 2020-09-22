@@ -1,0 +1,2974 @@
+fileFormatVersion: 2
+guid: 6e2c9ff6d5146ec489b2f577ca900458
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3130550414927973559
+    second: Gnome Idle_0
+  - first:
+      213: 2358206080403367946
+    second: Gnome Idle_1
+  - first:
+      213: 3003829924640282716
+    second: Gnome Idle_2
+  - first:
+      213: -1592119229907906375
+    second: Gnome Idle_3
+  - first:
+      213: -1443386475708467166
+    second: Gnome Idle_4
+  - first:
+      213: 7517929661485990397
+    second: Gnome Idle_5
+  - first:
+      213: 1574615031417776517
+    second: Gnome Idle_6
+  - first:
+      213: -2909750763313537722
+    second: Gnome Idle_7
+  - first:
+      213: 7534699781159092437
+    second: Gnome Idle_8
+  - first:
+      213: 5958138001564598563
+    second: Gnome Idle_9
+  - first:
+      213: -7708076641158318364
+    second: Gnome Idle_10
+  - first:
+      213: 4482887155601322148
+    second: Gnome Idle_11
+  - first:
+      213: 1106091847200586010
+    second: Gnome Idle_12
+  - first:
+      213: -7708395591627261414
+    second: Gnome Idle_13
+  - first:
+      213: 274937567541678146
+    second: Gnome Idle_14
+  - first:
+      213: 6229125820370854023
+    second: Gnome Idle_15
+  - first:
+      213: -4379087101886707410
+    second: Gnome Idle_16
+  - first:
+      213: -3471569365614826084
+    second: Gnome Idle_17
+  - first:
+      213: 359926712300405020
+    second: Gnome Idle_18
+  - first:
+      213: 8254132053784682915
+    second: Gnome Idle_19
+  - first:
+      213: 744639809814125227
+    second: Gnome Idle_20
+  - first:
+      213: -7980481941834145575
+    second: Gnome Idle_21
+  - first:
+      213: 7763624735215660354
+    second: Gnome Idle_22
+  - first:
+      213: 676947990164442241
+    second: Gnome Idle_23
+  - first:
+      213: 8942012242549350000
+    second: Gnome Idle_24
+  - first:
+      213: 8098813633603263918
+    second: Gnome Idle_25
+  - first:
+      213: -5491454828524016663
+    second: Gnome Idle_26
+  - first:
+      213: 2805809935633477843
+    second: Gnome Idle_27
+  - first:
+      213: 8062138921780493912
+    second: Gnome Idle_28
+  - first:
+      213: 8984228924272224229
+    second: Gnome Idle_29
+  - first:
+      213: -2992135272231390321
+    second: Gnome Idle_30
+  - first:
+      213: 6232100067065427234
+    second: Gnome Idle_31
+  - first:
+      213: -578974452313221540
+    second: Gnome Idle_32
+  - first:
+      213: -8637722047965899371
+    second: Gnome Idle_33
+  - first:
+      213: -6866698016160411800
+    second: Gnome Idle_34
+  - first:
+      213: -5505985610652890941
+    second: Gnome Idle_35
+  - first:
+      213: 189018977992612616
+    second: Gnome Idle_36
+  - first:
+      213: -5292506837076491258
+    second: Gnome Idle_37
+  - first:
+      213: -5696375612526611618
+    second: Gnome Idle_38
+  - first:
+      213: 5352519330527510902
+    second: Gnome Idle_39
+  - first:
+      213: -3195131164796074309
+    second: Gnome Idle_40
+  - first:
+      213: 4718367236746233826
+    second: Gnome Idle_41
+  - first:
+      213: 6084490708738715978
+    second: Gnome Idle_42
+  - first:
+      213: -8050336867520409328
+    second: Gnome Idle_43
+  - first:
+      213: 4043320242897077504
+    second: Gnome Idle_44
+  - first:
+      213: 6934340015991251851
+    second: Gnome Idle_45
+  - first:
+      213: -5213145824893731550
+    second: Gnome Idle_46
+  - first:
+      213: -4087104141705111215
+    second: Gnome Idle_47
+  - first:
+      213: -7330861683962498579
+    second: Gnome Idle_48
+  - first:
+      213: 3642667331763952237
+    second: Gnome Idle_49
+  - first:
+      213: -6362924657405322631
+    second: Gnome Idle_50
+  - first:
+      213: 7840630231755521844
+    second: Gnome Idle_51
+  - first:
+      213: 2438474765522082050
+    second: Gnome Idle_52
+  - first:
+      213: 6808875934671234127
+    second: Gnome Idle_53
+  - first:
+      213: 7136712148810506917
+    second: Gnome Idle_54
+  - first:
+      213: -8365256117357525748
+    second: Gnome Idle_55
+  - first:
+      213: 1713663993770319274
+    second: Gnome Idle_56
+  - first:
+      213: -6640538755245202901
+    second: Gnome Idle_57
+  - first:
+      213: -8220919524341227519
+    second: Gnome Idle_58
+  - first:
+      213: -8412214664134604755
+    second: Gnome Idle_59
+  - first:
+      213: -2564490707898827928
+    second: Gnome Idle_60
+  - first:
+      213: 5537613063585233713
+    second: Gnome Idle_61
+  - first:
+      213: -6732787984989635329
+    second: Gnome Idle_62
+  - first:
+      213: 304296242630143099
+    second: Gnome Idle_63
+  - first:
+      213: -7168547750946636775
+    second: Gnome Idle_64
+  - first:
+      213: 5464525414507290996
+    second: Gnome Idle_65
+  - first:
+      213: 3218985134487766134
+    second: Gnome Idle_66
+  - first:
+      213: -2691464754173242264
+    second: Gnome Idle_67
+  - first:
+      213: 4988580439874258597
+    second: Gnome Idle_68
+  - first:
+      213: -2849207895671338819
+    second: Gnome Idle_69
+  - first:
+      213: -6550489982602694334
+    second: Gnome Idle_70
+  - first:
+      213: -1442548409679131587
+    second: Gnome Idle_71
+  - first:
+      213: 8308465276020832556
+    second: Gnome Idle_72
+  - first:
+      213: 8706540752302894630
+    second: Gnome Idle_73
+  - first:
+      213: 3653369187942790445
+    second: Gnome Idle_74
+  - first:
+      213: 5993393012327980939
+    second: Gnome Idle_75
+  - first:
+      213: -8673813589530129631
+    second: Gnome Idle_76
+  - first:
+      213: -276971388595394222
+    second: Gnome Idle_77
+  - first:
+      213: 6475150399541178509
+    second: Gnome Idle_78
+  - first:
+      213: 1200004141541974879
+    second: Gnome Idle_79
+  - first:
+      213: -8601050403570172479
+    second: Gnome Idle_80
+  - first:
+      213: -6316283772522970653
+    second: Gnome Idle_81
+  - first:
+      213: -6000303879547195477
+    second: Gnome Idle_82
+  - first:
+      213: 3305605708302816864
+    second: Gnome Idle_83
+  - first:
+      213: 3088328747481305994
+    second: Gnome Idle_84
+  - first:
+      213: 8606758454937568836
+    second: Gnome Idle_85
+  - first:
+      213: 3506352964894648756
+    second: Gnome Idle_86
+  - first:
+      213: -8690358795841347901
+    second: Gnome Idle_87
+  - first:
+      213: -425001489485532851
+    second: Gnome Idle_88
+  - first:
+      213: 4880810654058496340
+    second: Gnome Idle_89
+  - first:
+      213: -8713788232338669
+    second: Gnome Idle_90
+  - first:
+      213: -2735242948656369818
+    second: Gnome Idle_91
+  - first:
+      213: 7651520422310803401
+    second: Gnome Idle_92
+  - first:
+      213: 2009601802499567243
+    second: Gnome Idle_93
+  - first:
+      213: 7609600540691891982
+    second: Gnome Idle_94
+  - first:
+      213: 6891108396518387914
+    second: Gnome Idle_95
+  - first:
+      213: -1019331959792459547
+    second: Gnome Idle_96
+  - first:
+      213: 4727938021309674701
+    second: Gnome Idle_97
+  - first:
+      213: -747125390783642045
+    second: Gnome Idle_98
+  - first:
+      213: 6431615530118148039
+    second: Gnome Idle_99
+  - first:
+      213: -6896299812548658359
+    second: Gnome Idle_100
+  - first:
+      213: -4709768260816654149
+    second: Gnome Idle_101
+  - first:
+      213: 4254052845281676695
+    second: Gnome Idle_102
+  - first:
+      213: -7757796769995882059
+    second: Gnome Idle_103
+  - first:
+      213: -6914909874002802557
+    second: Gnome Idle_104
+  - first:
+      213: -1533929341748138979
+    second: Gnome Idle_105
+  - first:
+      213: 456394572486357435
+    second: Gnome Idle_106
+  - first:
+      213: -1889612478338599565
+    second: Gnome Idle_107
+  - first:
+      213: -8380945321320817946
+    second: Gnome Idle_108
+  - first:
+      213: 7920762804116164718
+    second: Gnome Idle_109
+  - first:
+      213: -496127295454350132
+    second: Gnome Idle_110
+  - first:
+      213: 3959136881362849626
+    second: Gnome Idle_111
+  - first:
+      213: -2173843516290768111
+    second: Gnome Idle_112
+  - first:
+      213: 594492393391268148
+    second: Gnome Idle_113
+  - first:
+      213: 913564846084105959
+    second: Gnome Idle_114
+  - first:
+      213: -3158278531805640398
+    second: Gnome Idle_115
+  - first:
+      213: 393248019346874129
+    second: Gnome Idle_116
+  - first:
+      213: -5199482417734998996
+    second: Gnome Idle_117
+  - first:
+      213: 3029643752596062412
+    second: Gnome Idle_118
+  - first:
+      213: -8429146442865221468
+    second: Gnome Idle_119
+  - first:
+      213: 3736908050955526153
+    second: Gnome Idle_120
+  - first:
+      213: -8219111354248024077
+    second: Gnome Idle_121
+  - first:
+      213: 4444884845756481689
+    second: Gnome Idle_122
+  - first:
+      213: -7841176356413780427
+    second: Gnome Idle_123
+  - first:
+      213: -1982743393209839907
+    second: Gnome Idle_124
+  - first:
+      213: -8079412270640561446
+    second: Gnome Idle_125
+  - first:
+      213: 2534559967833873216
+    second: Gnome Idle_126
+  - first:
+      213: -161001831974834849
+    second: Gnome Idle_127
+  - first:
+      213: -5022213133936868237
+    second: Gnome Idle_128
+  - first:
+      213: 1089655379074239071
+    second: Gnome Idle_129
+  - first:
+      213: -2213957705374341794
+    second: Gnome Idle_130
+  - first:
+      213: -535227404086204834
+    second: Gnome Idle_131
+  - first:
+      213: -7566157943026072037
+    second: Gnome Idle_132
+  - first:
+      213: -920881231142962503
+    second: Gnome Idle_133
+  - first:
+      213: -9058894496122966466
+    second: Gnome Idle_134
+  - first:
+      213: 7510467321402640565
+    second: Gnome Idle_135
+  - first:
+      213: 5430778294785071129
+    second: Gnome Idle_136
+  - first:
+      213: 8818460046126398207
+    second: Gnome Idle_137
+  - first:
+      213: 892362007548602126
+    second: Gnome Idle_138
+  - first:
+      213: 6999562284160600499
+    second: Gnome Idle_139
+  - first:
+      213: -4133478573653258147
+    second: Gnome Idle_140
+  - first:
+      213: -316417108608643829
+    second: Gnome Idle_141
+  - first:
+      213: -4934500728719662166
+    second: Gnome Idle_142
+  - first:
+      213: -8724576711831947746
+    second: Gnome Idle_143
+  - first:
+      213: -4860238866048923669
+    second: Gnome Idle_144
+  - first:
+      213: 8277437511271292288
+    second: Gnome Idle_145
+  - first:
+      213: -7484598282841708111
+    second: Gnome Idle_146
+  - first:
+      213: -7928709975732046297
+    second: Gnome Idle_147
+  - first:
+      213: 9134131121341624831
+    second: Gnome Idle_148
+  - first:
+      213: -8599846743459840624
+    second: Gnome Idle_149
+  - first:
+      213: 5517225905335616317
+    second: Gnome Idle_150
+  - first:
+      213: -2082527902767032853
+    second: Gnome Idle_151
+  - first:
+      213: 9173768886162025020
+    second: Gnome Idle_152
+  - first:
+      213: -8805789950819034999
+    second: Gnome Idle_153
+  - first:
+      213: -3762548340656682941
+    second: Gnome Idle_154
+  - first:
+      213: 2361576088434603584
+    second: Gnome Idle_155
+  - first:
+      213: 2010929285704122121
+    second: Gnome Idle_156
+  - first:
+      213: 4323467809241840481
+    second: Gnome Idle_157
+  - first:
+      213: 8045035498899936897
+    second: Gnome Idle_158
+  - first:
+      213: -2753537457309387983
+    second: Gnome Idle_159
+  - first:
+      213: 8324552942558790841
+    second: Gnome Idle_160
+  - first:
+      213: 7474730784526659131
+    second: Gnome Idle_161
+  - first:
+      213: -6977747287907165936
+    second: Gnome Idle_162
+  - first:
+      213: -2164193000801001304
+    second: Gnome Idle_163
+  - first:
+      213: -6167245770789461239
+    second: Gnome Idle_164
+  - first:
+      213: 8258678976236188613
+    second: Gnome Idle_165
+  - first:
+      213: 5122748681555109866
+    second: Gnome Idle_166
+  - first:
+      213: -6486516651348356489
+    second: Gnome Idle_167
+  - first:
+      213: -5978045008659738178
+    second: Gnome Idle_168
+  - first:
+      213: -4105608584149127375
+    second: Gnome Idle_169
+  - first:
+      213: 5547165512324060368
+    second: Gnome Idle_170
+  - first:
+      213: -7524914471006820978
+    second: Gnome Idle_171
+  - first:
+      213: 1722810191779155261
+    second: Gnome Idle_172
+  - first:
+      213: -345541801361231422
+    second: Gnome Idle_173
+  - first:
+      213: 3804992305958309780
+    second: Gnome Idle_174
+  - first:
+      213: 2865413315218595970
+    second: Gnome Idle_175
+  - first:
+      213: -6118764993890680010
+    second: Gnome Idle_176
+  - first:
+      213: 8887650021041851343
+    second: Gnome Idle_177
+  - first:
+      213: -7774963941726833125
+    second: Gnome Idle_178
+  - first:
+      213: -3173491134089334361
+    second: Gnome Idle_179
+  - first:
+      213: 5149780717977332309
+    second: Gnome Idle_180
+  - first:
+      213: -3189230764801695093
+    second: Gnome Idle_181
+  - first:
+      213: -9007123005629694802
+    second: Gnome Idle_182
+  - first:
+      213: -1550454250846439979
+    second: Gnome Idle_183
+  - first:
+      213: -846963178821969655
+    second: Gnome Idle_184
+  - first:
+      213: -2314238561195696873
+    second: Gnome Idle_185
+  - first:
+      213: -865407383007614034
+    second: Gnome Idle_186
+  - first:
+      213: 959626335653170704
+    second: Gnome Idle_187
+  - first:
+      213: -8335196513088849169
+    second: Gnome Idle_188
+  - first:
+      213: 1956103540214655145
+    second: Gnome Idle_189
+  - first:
+      213: -7503572207116984298
+    second: Gnome Idle_190
+  - first:
+      213: -8739843344728291367
+    second: Gnome Idle_191
+  - first:
+      213: -8039505796744215154
+    second: Gnome Idle_192
+  - first:
+      213: 5454729319356018448
+    second: Gnome Idle_193
+  - first:
+      213: -888671399888615383
+    second: Gnome Idle_194
+  - first:
+      213: -8270046354941389682
+    second: Gnome Idle_195
+  - first:
+      213: 8193607029961838756
+    second: Gnome Idle_196
+  - first:
+      213: -6596827740242580389
+    second: Gnome Idle_197
+  - first:
+      213: 3776772732434601640
+    second: Gnome Idle_198
+  - first:
+      213: 2688222350915499020
+    second: Gnome Idle_199
+  - first:
+      213: 4690857711018338905
+    second: Gnome Idle_200
+  - first:
+      213: -1375312103827524128
+    second: Gnome Idle_201
+  - first:
+      213: -5238345922788992586
+    second: Gnome Idle_202
+  - first:
+      213: -7130711259570938455
+    second: Gnome Idle_203
+  - first:
+      213: -8224396590385770814
+    second: Gnome Idle_204
+  - first:
+      213: 6932062863307169738
+    second: Gnome Idle_205
+  - first:
+      213: -9176563404709596246
+    second: Gnome Idle_206
+  - first:
+      213: -435938316163340627
+    second: Gnome Idle_207
+  - first:
+      213: -4258793066345191755
+    second: Gnome Idle_208
+  - first:
+      213: -5046189648165487023
+    second: Gnome Idle_209
+  - first:
+      213: 9165237842279295383
+    second: Gnome Idle_210
+  - first:
+      213: 5696078611246599003
+    second: Gnome Idle_211
+  - first:
+      213: -3442444704601727869
+    second: Gnome Idle_212
+  - first:
+      213: 5407472828176695824
+    second: Gnome Idle_213
+  - first:
+      213: -293861710452189505
+    second: Gnome Idle_214
+  - first:
+      213: -2679780190033156429
+    second: Gnome Idle_215
+  - first:
+      213: -7114479494102017642
+    second: Gnome Idle_216
+  - first:
+      213: 5471564679955559498
+    second: Gnome Idle_217
+  - first:
+      213: 3790498701250302077
+    second: Gnome Idle_218
+  - first:
+      213: 4737795186910361984
+    second: Gnome Idle_219
+  - first:
+      213: -4943527497946957683
+    second: Gnome Idle_220
+  - first:
+      213: 7045438921279784009
+    second: Gnome Idle_221
+  - first:
+      213: 1293809168462450242
+    second: Gnome Idle_222
+  - first:
+      213: 8488150141044297760
+    second: Gnome Idle_223
+  - first:
+      213: 4613365006652827222
+    second: Gnome Idle_224
+  - first:
+      213: -5585138909888262002
+    second: Gnome Idle_225
+  - first:
+      213: -3196102487314215586
+    second: Gnome Idle_226
+  - first:
+      213: 2148646687576477090
+    second: Gnome Idle_227
+  - first:
+      213: 6880514163968596484
+    second: Gnome Idle_228
+  - first:
+      213: -3375005072788328722
+    second: Gnome Idle_229
+  - first:
+      213: -7476604778888536139
+    second: Gnome Idle_230
+  - first:
+      213: -6773921240431588385
+    second: Gnome Idle_231
+  - first:
+      213: -3134088618947191335
+    second: Gnome Idle_232
+  - first:
+      213: -1143184312605144323
+    second: Gnome Idle_233
+  - first:
+      213: 8360882823110960032
+    second: Gnome Idle_234
+  - first:
+      213: 6656323951458885575
+    second: Gnome Idle_235
+  - first:
+      213: 8228030588866386743
+    second: Gnome Idle_236
+  - first:
+      213: 5454875068081864624
+    second: Gnome Idle_237
+  - first:
+      213: -80840409221305793
+    second: Gnome Idle_238
+  - first:
+      213: -7038444503159071417
+    second: Gnome Idle_239
+  - first:
+      213: 4423898916197004944
+    second: Gnome Idle_240
+  - first:
+      213: -8852409583425970696
+    second: Gnome Idle_241
+  - first:
+      213: 3935023980799854755
+    second: Gnome Idle_242
+  - first:
+      213: -8764901378142335499
+    second: Gnome Idle_243
+  - first:
+      213: -8882910786265421145
+    second: Gnome Idle_244
+  - first:
+      213: -2696651492160988960
+    second: Gnome Idle_245
+  - first:
+      213: 7452288698040799529
+    second: Gnome Idle_246
+  - first:
+      213: 6496875308803837700
+    second: Gnome Idle_247
+  - first:
+      213: 1350228083354978883
+    second: Gnome Idle_248
+  - first:
+      213: -6514592583281196464
+    second: Gnome Idle_249
+  - first:
+      213: -58919811526503844
+    second: Gnome Idle_250
+  - first:
+      213: 206764178635423874
+    second: Gnome Idle_251
+  - first:
+      213: -3155532219363403948
+    second: Gnome Idle_252
+  - first:
+      213: 2903200522783909873
+    second: Gnome Idle_253
+  - first:
+      213: 3574048030262290669
+    second: Gnome Idle_254
+  - first:
+      213: -2718436902500502507
+    second: Gnome Idle_255
+  - first:
+      213: 3263186105473669210
+    second: Gnome Idle_256
+  - first:
+      213: 2093960065322615440
+    second: Gnome Idle_257
+  - first:
+      213: -4603223395400298247
+    second: Gnome Idle_258
+  - first:
+      213: 2518170302077649897
+    second: Gnome Idle_259
+  - first:
+      213: -1557053361396366088
+    second: Gnome Idle_260
+  - first:
+      213: -2959091107410236771
+    second: Gnome Idle_261
+  - first:
+      213: 3272000151044263340
+    second: Gnome Idle_262
+  - first:
+      213: 1927764439156070330
+    second: Gnome Idle_263
+  - first:
+      213: 9067553704420426544
+    second: Gnome Idle_264
+  - first:
+      213: -4228512274065164204
+    second: Gnome Idle_265
+  - first:
+      213: 5027955653379439084
+    second: Gnome Idle_266
+  - first:
+      213: -7393104299776668333
+    second: Gnome Idle_267
+  - first:
+      213: -7420222614146414089
+    second: Gnome Idle_268
+  - first:
+      213: 8503950439781648848
+    second: Gnome Idle_269
+  - first:
+      213: -7074792136172446060
+    second: Gnome Idle_270
+  - first:
+      213: 6930258458467165544
+    second: Gnome Idle_271
+  - first:
+      213: -265745847550490317
+    second: Gnome Idle_272
+  - first:
+      213: -1930414589128562212
+    second: Gnome Idle_273
+  - first:
+      213: -1480960917094375130
+    second: Gnome Idle_274
+  - first:
+      213: -6669149541495088949
+    second: Gnome Idle_275
+  - first:
+      213: -264578135754017494
+    second: Gnome Idle_276
+  - first:
+      213: -6206693047406560380
+    second: Gnome Idle_277
+  - first:
+      213: -3372599903490088392
+    second: Gnome Idle_278
+  - first:
+      213: 7040944565760257212
+    second: Gnome Idle_279
+  - first:
+      213: -5438767363248056813
+    second: Gnome Idle_280
+  - first:
+      213: -3627723059040965608
+    second: Gnome Idle_281
+  - first:
+      213: -6064949286851329136
+    second: Gnome Idle_282
+  - first:
+      213: 2908721008664620200
+    second: Gnome Idle_283
+  - first:
+      213: -6370920357656883656
+    second: Gnome Idle_284
+  - first:
+      213: -8358739267080983690
+    second: Gnome Idle_285
+  - first:
+      213: 4156547004465672021
+    second: Gnome Idle_286
+  - first:
+      213: 1164015743907815034
+    second: Gnome Idle_287
+  - first:
+      213: 1590894250021092162
+    second: Gnome Idle_288
+  - first:
+      213: 7210646866963460686
+    second: Gnome Idle_289
+  - first:
+      213: 3245478159384368722
+    second: Gnome Idle_290
+  - first:
+      213: 1889246543688950854
+    second: Gnome Idle_291
+  - first:
+      213: 1270062411489850790
+    second: Gnome Idle_292
+  - first:
+      213: -6099668653578128924
+    second: Gnome Idle_293
+  - first:
+      213: -1882620189805564367
+    second: Gnome Idle_294
+  - first:
+      213: -3588401261657591482
+    second: Gnome Idle_295
+  - first:
+      213: -5884770694205461530
+    second: Gnome Idle_296
+  - first:
+      213: -8508009322227605046
+    second: Gnome Idle_297
+  - first:
+      213: 2889246616223123823
+    second: Gnome Idle_298
+  - first:
+      213: 6776708294435573089
+    second: Gnome Idle_299
+  - first:
+      213: 2982614383141778206
+    second: Gnome Idle_300
+  - first:
+      213: 5047547899624848306
+    second: Gnome Idle_301
+  - first:
+      213: -6248861685021000436
+    second: Gnome Idle_302
+  - first:
+      213: 3495190650514450426
+    second: Gnome Idle_303
+  - first:
+      213: 3825741162163618068
+    second: Gnome Idle_304
+  - first:
+      213: 5313637754275476204
+    second: Gnome Idle_305
+  - first:
+      213: -7744797474426787747
+    second: Gnome Idle_306
+  - first:
+      213: 4534722752711975204
+    second: Gnome Idle_307
+  - first:
+      213: 354111332940680386
+    second: Gnome Idle_308
+  - first:
+      213: -6614774998640284476
+    second: Gnome Idle_309
+  - first:
+      213: -1442654603104217535
+    second: Gnome Idle_310
+  - first:
+      213: 6181183016862509027
+    second: Gnome Idle_311
+  - first:
+      213: -7766896596835998824
+    second: Gnome Idle_312
+  - first:
+      213: 1744293548007358762
+    second: Gnome Idle_313
+  - first:
+      213: -6277824962690064610
+    second: Gnome Idle_314
+  - first:
+      213: -2585983976788659871
+    second: Gnome Idle_315
+  - first:
+      213: 4919471270002620400
+    second: Gnome Idle_316
+  - first:
+      213: 1666987750397427166
+    second: Gnome Idle_317
+  - first:
+      213: 5534993762234183937
+    second: Gnome Idle_318
+  - first:
+      213: -6216886707762312093
+    second: Gnome Idle_319
+  - first:
+      213: 8344063227559696949
+    second: Gnome Idle_320
+  - first:
+      213: -6840314406032790603
+    second: Gnome Idle_321
+  - first:
+      213: 6883416276536197273
+    second: Gnome Idle_322
+  - first:
+      213: -2186303816643481262
+    second: Gnome Idle_323
+  - first:
+      213: 622694815416976661
+    second: Gnome Idle_324
+  - first:
+      213: -9217150132247957231
+    second: Gnome Idle_325
+  - first:
+      213: -7066021020307616354
+    second: Gnome Idle_326
+  - first:
+      213: 4722738277688280023
+    second: Gnome Idle_327
+  - first:
+      213: 7646872219365754331
+    second: Gnome Idle_328
+  - first:
+      213: 3700822953313037655
+    second: Gnome Idle_329
+  - first:
+      213: 3255142069804270925
+    second: Gnome Idle_330
+  - first:
+      213: 1975351883530282401
+    second: Gnome Idle_331
+  - first:
+      213: 681063218147455654
+    second: Gnome Idle_332
+  - first:
+      213: -4761640077569021972
+    second: Gnome Idle_333
+  - first:
+      213: 6697693800162703767
+    second: Gnome Idle_334
+  - first:
+      213: -6869386477154740651
+    second: Gnome Idle_335
+  - first:
+      213: 4341902935406924119
+    second: Gnome Idle_336
+  - first:
+      213: 5181409117105406939
+    second: Gnome Idle_337
+  - first:
+      213: 9197934415470302228
+    second: Gnome Idle_338
+  - first:
+      213: 5461760540747738826
+    second: Gnome Idle_339
+  - first:
+      213: -7185873378272807249
+    second: Gnome Idle_340
+  - first:
+      213: -75540277289865305
+    second: Gnome Idle_341
+  - first:
+      213: -6245384998845801170
+    second: Gnome Idle_342
+  - first:
+      213: 2613036411663624730
+    second: Gnome Idle_343
+  - first:
+      213: -6561062895963385527
+    second: Gnome Idle_344
+  - first:
+      213: 1712577726405060525
+    second: Gnome Idle_345
+  - first:
+      213: -4716680490359704005
+    second: Gnome Idle_346
+  - first:
+      213: 6059287385562878572
+    second: Gnome Idle_347
+  - first:
+      213: 2446911836177503731
+    second: Gnome Idle_348
+  - first:
+      213: 7226397134167588427
+    second: Gnome Idle_349
+  - first:
+      213: 2768215899314095512
+    second: Gnome Idle_350
+  - first:
+      213: 4455404426831261458
+    second: Gnome Idle_351
+  - first:
+      213: 948747685980309042
+    second: Gnome Idle_352
+  - first:
+      213: -3196276662225425155
+    second: Gnome Idle_353
+  - first:
+      213: 5624486306512517753
+    second: Gnome Idle_354
+  - first:
+      213: -1991889312280734964
+    second: Gnome Idle_355
+  - first:
+      213: -3240685629474634163
+    second: Gnome Idle_356
+  - first:
+      213: -1358857741338156736
+    second: Gnome Idle_357
+  - first:
+      213: -850694990756738068
+    second: Gnome Idle_358
+  - first:
+      213: -4063164308932084190
+    second: Gnome Idle_359
+  - first:
+      213: -4486856681689523852
+    second: Gnome Idle_360
+  - first:
+      213: 2347005755652460230
+    second: Gnome Idle_361
+  - first:
+      213: -6758627934710258871
+    second: Gnome Idle_362
+  - first:
+      213: 1264348653019557506
+    second: Gnome Idle_363
+  - first:
+      213: 243428680370698646
+    second: Gnome Idle_364
+  - first:
+      213: -6226214636285487801
+    second: Gnome Idle_365
+  - first:
+      213: -8450408727398153877
+    second: Gnome Idle_366
+  - first:
+      213: 7275017121558496517
+    second: Gnome Idle_367
+  - first:
+      213: -2278392612697543529
+    second: Gnome Idle_368
+  - first:
+      213: 7258051947767714656
+    second: Gnome Idle_369
+  - first:
+      213: -8402727605344147874
+    second: Gnome Idle_370
+  - first:
+      213: 1501334663140105928
+    second: Gnome Idle_371
+  - first:
+      213: 6770926256552666010
+    second: Gnome Idle_372
+  - first:
+      213: 3817679980596903000
+    second: Gnome Idle_373
+  - first:
+      213: 4185438994458322520
+    second: Gnome Idle_374
+  - first:
+      213: -791820845745345905
+    second: Gnome Idle_375
+  - first:
+      213: 619768506656927162
+    second: Gnome Idle_376
+  - first:
+      213: 554045728925447365
+    second: Gnome Idle_377
+  - first:
+      213: 3549301507457749726
+    second: Gnome Idle_378
+  - first:
+      213: 5072213044271462272
+    second: Gnome Idle_379
+  - first:
+      213: 1016270534694813396
+    second: Gnome Idle_380
+  - first:
+      213: 6677497098661517878
+    second: Gnome Idle_381
+  - first:
+      213: -5479800293491198711
+    second: Gnome Idle_382
+  - first:
+      213: 6147344654028909817
+    second: Gnome Idle_383
+  - first:
+      213: 5713110049843072571
+    second: Gnome Idle_384
+  - first:
+      213: 6156088068462770512
+    second: Gnome Idle_385
+  - first:
+      213: -336767528083286257
+    second: Gnome Idle_386
+  - first:
+      213: 2019594379699679213
+    second: Gnome Idle_387
+  - first:
+      213: -7992036931381283810
+    second: Gnome Idle_388
+  - first:
+      213: -2148123029671334962
+    second: Gnome Idle_389
+  - first:
+      213: -1918191585162889824
+    second: Gnome Idle_390
+  - first:
+      213: -5176269113118982408
+    second: Gnome Idle_391
+  - first:
+      213: 2148417977053585960
+    second: Gnome Idle_392
+  - first:
+      213: -4686455408455284602
+    second: Gnome Idle_393
+  - first:
+      213: 5995796304651990806
+    second: Gnome Idle_394
+  - first:
+      213: 3722820829238882245
+    second: Gnome Idle_395
+  - first:
+      213: -4071551938194974074
+    second: Gnome Idle_396
+  - first:
+      213: 3145957275528505896
+    second: Gnome Idle_397
+  - first:
+      213: -978765876420300921
+    second: Gnome Idle_398
+  - first:
+      213: 3047288714444263384
+    second: Gnome Idle_399
+  - first:
+      213: 8956051486772333302
+    second: Gnome Idle_400
+  - first:
+      213: -5323065846775898807
+    second: Gnome Idle_401
+  - first:
+      213: -3410077130771571617
+    second: Gnome Idle_402
+  - first:
+      213: 344908320402586520
+    second: Gnome Idle_403
+  - first:
+      213: -448499702136880507
+    second: Gnome Idle_404
+  - first:
+      213: -7359142928546521601
+    second: Gnome Idle_405
+  - first:
+      213: 1932263055938677372
+    second: Gnome Idle_406
+  - first:
+      213: -7546373259471923312
+    second: Gnome Idle_407
+  - first:
+      213: -5188621600641991638
+    second: Gnome Idle_408
+  - first:
+      213: 484729683752094962
+    second: Gnome Idle_409
+  - first:
+      213: 7130078417119323093
+    second: Gnome Idle_410
+  - first:
+      213: 1672715954304914533
+    second: Gnome Idle_411
+  - first:
+      213: -8807303363168648104
+    second: Gnome Idle_412
+  - first:
+      213: 791127275863157413
+    second: Gnome Idle_413
+  - first:
+      213: 7646658948778709975
+    second: Gnome Idle_414
+  - first:
+      213: 5130920907787924692
+    second: Gnome Idle_415
+  - first:
+      213: -1443737657872894979
+    second: Gnome Idle_416
+  - first:
+      213: 6041675282929240050
+    second: Gnome Idle_417
+  - first:
+      213: 588010455491302555
+    second: Gnome Idle_418
+  - first:
+      213: 1842297328957557716
+    second: Gnome Idle_419
+  - first:
+      213: 5759663772156920033
+    second: Gnome Idle_420
+  - first:
+      213: -5815576644397915691
+    second: Gnome Idle_421
+  - first:
+      213: -6716125235314065335
+    second: Gnome Idle_422
+  - first:
+      213: -2197497189769011248
+    second: Gnome Idle_423
+  - first:
+      213: -5465929269378750100
+    second: Gnome Idle_424
+  - first:
+      213: 1830934079437856363
+    second: Gnome Idle_425
+  - first:
+      213: -3274433624467424888
+    second: Gnome Idle_426
+  - first:
+      213: 2349460525856265699
+    second: Gnome Idle_427
+  - first:
+      213: 6981175966001137467
+    second: Gnome Idle_428
+  - first:
+      213: -4345136704270356241
+    second: Gnome Idle_429
+  - first:
+      213: -8530453473096863278
+    second: Gnome Idle_430
+  - first:
+      213: 8533663832808773883
+    second: Gnome Idle_431
+  - first:
+      213: 2610763889020064334
+    second: Gnome Idle_432
+  - first:
+      213: -1349052795265329008
+    second: Gnome Idle_433
+  - first:
+      213: 8245415346078912652
+    second: Gnome Idle_434
+  - first:
+      213: 3342915635573393524
+    second: Gnome Idle_435
+  - first:
+      213: 7880151670437473671
+    second: Gnome Idle_436
+  - first:
+      213: 7183772945349611358
+    second: Gnome Idle_437
+  - first:
+      213: 5375035529880231220
+    second: Gnome Idle_438
+  - first:
+      213: 7442758879562966313
+    second: Gnome Idle_439
+  - first:
+      213: -289641853095685956
+    second: Gnome Idle_440
+  - first:
+      213: 8449388715743457592
+    second: Gnome Idle_441
+  - first:
+      213: -5891189731107251567
+    second: Gnome Idle_442
+  - first:
+      213: -1031943795275039166
+    second: Gnome Idle_443
+  - first:
+      213: 4881413041552936873
+    second: Gnome Idle_444
+  - first:
+      213: 6281583613947776303
+    second: Gnome Idle_445
+  - first:
+      213: -2897368117025651905
+    second: Gnome Idle_446
+  - first:
+      213: -5807034889057427493
+    second: Gnome Idle_447
+  - first:
+      213: -8196909143516105305
+    second: Gnome Idle_448
+  - first:
+      213: -3853543810423325155
+    second: Gnome Idle_449
+  - first:
+      213: -4218033547191852069
+    second: Gnome Idle_450
+  - first:
+      213: 1953089199639371241
+    second: Gnome Idle_451
+  - first:
+      213: 3650382920616176767
+    second: Gnome Idle_452
+  - first:
+      213: 3765700689461586851
+    second: Gnome Idle_453
+  - first:
+      213: 8517741552499682256
+    second: Gnome Idle_454
+  - first:
+      213: 8078826955498411257
+    second: Gnome Idle_455
+  - first:
+      213: -2309353878665675064
+    second: Gnome Idle_456
+  - first:
+      213: -5568846819636215941
+    second: Gnome Idle_457
+  - first:
+      213: 8399404489226726415
+    second: Gnome Idle_458
+  - first:
+      213: -4359486895872551931
+    second: Gnome Idle_459
+  - first:
+      213: 697036389788330290
+    second: Gnome Idle_460
+  - first:
+      213: -1624148501308108948
+    second: Gnome Idle_461
+  - first:
+      213: 4667910596642794746
+    second: Gnome Idle_462
+  - first:
+      213: -929115623615927800
+    second: Gnome Idle_463
+  - first:
+      213: -9098381162953562713
+    second: Gnome Idle_464
+  - first:
+      213: 8664696536823539970
+    second: Gnome Idle_465
+  - first:
+      213: -907774904487030470
+    second: Gnome Idle_466
+  - first:
+      213: -5863425391813020641
+    second: Gnome Idle_467
+  - first:
+      213: -5035939654459700100
+    second: Gnome Idle_468
+  - first:
+      213: 8818047438875549200
+    second: Gnome Idle_469
+  - first:
+      213: 7292750934974310389
+    second: Gnome Idle_470
+  - first:
+      213: -6458321155858867616
+    second: Gnome Idle_471
+  - first:
+      213: -2023708668396509336
+    second: Gnome Idle_472
+  - first:
+      213: 1684433974827831862
+    second: Gnome Idle_473
+  - first:
+      213: -1865867189984680555
+    second: Gnome Idle_474
+  - first:
+      213: 8093191998597860332
+    second: Gnome Idle_475
+  - first:
+      213: 2071313267906796965
+    second: Gnome Idle_476
+  - first:
+      213: -4342641253196905211
+    second: Gnome Idle_477
+  - first:
+      213: 5284398601737215159
+    second: Gnome Idle_478
+  - first:
+      213: 3305205083743434295
+    second: Gnome Idle_479
+  - first:
+      213: -7575859398395977417
+    second: Gnome Idle_480
+  - first:
+      213: -5507758836498244205
+    second: Gnome Idle_481
+  - first:
+      213: 2885989328137814481
+    second: Gnome Idle_482
+  - first:
+      213: 4670468700485131989
+    second: Gnome Idle_483
+  - first:
+      213: 3631519945876036298
+    second: Gnome Idle_484
+  - first:
+      213: -3237034287869118279
+    second: Gnome Idle_485
+  - first:
+      213: 3194596145934348722
+    second: Gnome Idle_486
+  - first:
+      213: 3015649289973907657
+    second: Gnome Idle_487
+  - first:
+      213: 8928258940612379227
+    second: Gnome Idle_488
+  - first:
+      213: 6665410020979487669
+    second: Gnome Idle_489
+  - first:
+      213: -252315106566332818
+    second: Gnome Idle_490
+  - first:
+      213: 5966639475068317244
+    second: Gnome Idle_491
+  - first:
+      213: 5002407567106656565
+    second: Gnome Idle_492
+  - first:
+      213: 7793579139423781670
+    second: Gnome Idle_493
+  - first:
+      213: -4488908566308059860
+    second: Gnome Idle_494
+  - first:
+      213: -691793895160896833
+    second: Gnome Idle_495
+  - first:
+      213: 8726665349276349238
+    second: Gnome Idle_496
+  - first:
+      213: -6413719335047611708
+    second: Gnome Idle_497
+  - first:
+      213: -5289198435209330591
+    second: Gnome Idle_498
+  - first:
+      213: -4511965757048084684
+    second: Gnome Idle_499
+  - first:
+      213: 2293355005173493545
+    second: Gnome Idle_500
+  - first:
+      213: 1862606750305693316
+    second: Gnome Idle_501
+  - first:
+      213: 8562112831045906240
+    second: Gnome Idle_502
+  - first:
+      213: 203647863340618407
+    second: Gnome Idle_503
+  - first:
+      213: -5168297048825295945
+    second: Gnome Idle_504
+  - first:
+      213: 1966100226861300614
+    second: Gnome Idle_505
+  - first:
+      213: 2285428424429385086
+    second: Gnome Idle_506
+  - first:
+      213: 4116655324339075666
+    second: Gnome Idle_507
+  - first:
+      213: 5218331802770409865
+    second: Gnome Idle_508
+  - first:
+      213: -6728602101548128856
+    second: Gnome Idle_509
+  - first:
+      213: -5600125698156336736
+    second: Gnome Idle_510
+  - first:
+      213: 1191489696727967249
+    second: Gnome Idle_511
+  - first:
+      213: 5256925178547179924
+    second: Gnome Idle_512
+  - first:
+      213: 3609182006374160676
+    second: Gnome Idle_513
+  - first:
+      213: 5674941595848440079
+    second: Gnome Idle_514
+  - first:
+      213: 4094576852611333719
+    second: Gnome Idle_515
+  - first:
+      213: -7920529220090417618
+    second: Gnome Idle_516
+  - first:
+      213: -8049946009053606456
+    second: Gnome Idle_517
+  - first:
+      213: 5321124641107316961
+    second: Gnome Idle_518
+  - first:
+      213: 8879689109177058389
+    second: Gnome Idle_519
+  - first:
+      213: -7114777088119571049
+    second: Gnome Idle_520
+  - first:
+      213: 6058924129660577586
+    second: Gnome Idle_521
+  - first:
+      213: 1901211978159250264
+    second: Gnome Idle_522
+  - first:
+      213: -7356618571836151732
+    second: Gnome Idle_523
+  - first:
+      213: 4425164211719896379
+    second: Gnome Idle_524
+  - first:
+      213: 1364787946801461115
+    second: Gnome Idle_525
+  - first:
+      213: -7797474127283534820
+    second: Gnome Idle_526
+  - first:
+      213: -2488125781165320853
+    second: Gnome Idle_527
+  - first:
+      213: 6703067175365649246
+    second: Gnome Idle_528
+  - first:
+      213: -5798061484641872128
+    second: Gnome Idle_529
+  - first:
+      213: 9088212020262389589
+    second: Gnome Idle_530
+  - first:
+      213: 3432080183570264724
+    second: Gnome Idle_531
+  - first:
+      213: -6071860129744028412
+    second: Gnome Idle_532
+  - first:
+      213: 7523693632475568657
+    second: Gnome Idle_533
+  - first:
+      213: 5955637657708176109
+    second: Gnome Idle_534
+  - first:
+      213: -395403325422863216
+    second: Gnome Idle_535
+  - first:
+      213: -3290603186680759937
+    second: Gnome Idle_536
+  - first:
+      213: -723532289971880894
+    second: Gnome Idle_537
+  - first:
+      213: 4604481267777008088
+    second: Gnome Idle_538
+  - first:
+      213: 5196028560272544396
+    second: Gnome Idle_539
+  - first:
+      213: -2140881887165485980
+    second: Gnome Idle_540
+  - first:
+      213: -4734430501243747834
+    second: Gnome Idle_541
+  - first:
+      213: 3381161062998938628
+    second: Gnome Idle_542
+  - first:
+      213: 1756389329207730691
+    second: Gnome Idle_543
+  - first:
+      213: 8097263057416900069
+    second: Gnome Idle_544
+  - first:
+      213: -8164196745137025010
+    second: Gnome Idle_545
+  - first:
+      213: 7190028941116491785
+    second: Gnome Idle_546
+  - first:
+      213: 6258772799592775266
+    second: Gnome Idle_547
+  - first:
+      213: -9010266273658152302
+    second: Gnome Idle_548
+  - first:
+      213: -6004969725009272304
+    second: Gnome Idle_549
+  - first:
+      213: 3912549822165169510
+    second: Gnome Idle_550
+  - first:
+      213: -487165519184152431
+    second: Gnome Idle_551
+  - first:
+      213: 9132478745869945258
+    second: Gnome Idle_552
+  - first:
+      213: -331486482445129869
+    second: Gnome Idle_553
+  - first:
+      213: -4653722062731271459
+    second: Gnome Idle_554
+  - first:
+      213: 6408668657444850066
+    second: Gnome Idle_555
+  - first:
+      213: -1158264569580205768
+    second: Gnome Idle_556
+  - first:
+      213: -9030685538949928774
+    second: Gnome Idle_557
+  - first:
+      213: 5497952823800946113
+    second: Gnome Idle_558
+  - first:
+      213: -5014267618740995279
+    second: Gnome Idle_559
+  - first:
+      213: -3617925870140898452
+    second: Gnome Idle_560
+  - first:
+      213: 8906211249972498053
+    second: Gnome Idle_561
+  - first:
+      213: 4395157439103597198
+    second: Gnome Idle_562
+  - first:
+      213: 2635508107741031176
+    second: Gnome Idle_563
+  - first:
+      213: -545329017975149805
+    second: Gnome Idle_564
+  - first:
+      213: -7744524195420798315
+    second: Gnome Idle_565
+  - first:
+      213: 774194913566537915
+    second: Gnome Idle_566
+  - first:
+      213: -3031045557895214203
+    second: Gnome Idle_567
+  - first:
+      213: -34319011875155323
+    second: Gnome Idle_568
+  - first:
+      213: -8629248177674143455
+    second: Gnome Idle_569
+  - first:
+      213: -4171223113552392718
+    second: Gnome Idle_570
+  - first:
+      213: 2621397981906541018
+    second: Gnome Idle_571
+  - first:
+      213: 4863227596022954569
+    second: Gnome Idle_572
+  - first:
+      213: 1670736505277830305
+    second: Gnome Idle_573
+  - first:
+      213: -1113528895046634755
+    second: Gnome Idle_574
+  - first:
+      213: -3158334607343432088
+    second: Gnome Idle_575
+  - first:
+      213: 1000684958149606486
+    second: Gnome Idle_576
+  - first:
+      213: 3197285034965950595
+    second: Gnome Idle_577
+  - first:
+      213: 1387041725397284505
+    second: Gnome Idle_578
+  - first:
+      213: -1311282841955954528
+    second: Gnome Idle_579
+  - first:
+      213: -2658608475084039107
+    second: Gnome Idle_580
+  - first:
+      213: 4628827952717222238
+    second: Gnome Idle_581
+  - first:
+      213: 2886111040064777123
+    second: Gnome Idle_582
+  - first:
+      213: 1987832926142373559
+    second: Gnome Idle_583
+  - first:
+      213: 4555462491877661962
+    second: Gnome Idle_584
+  - first:
+      213: 5360839341539937936
+    second: Gnome Idle_585
+  - first:
+      213: 7651347820464991377
+    second: Gnome Idle_586
+  - first:
+      213: -4330484152393694870
+    second: Gnome Idle_587
+  - first:
+      213: 6055961822022604097
+    second: Gnome Idle_588
+  - first:
+      213: 5341991715843479796
+    second: Gnome Idle_589
+  - first:
+      213: 3525703149709076706
+    second: Gnome Idle_590
+  - first:
+      213: -6844996692307498367
+    second: Gnome Idle_591
+  - first:
+      213: -5625853820853888078
+    second: Gnome Idle_592
+  - first:
+      213: -8218870701899232529
+    second: Gnome Idle_593
+  - first:
+      213: 4070130917173841006
+    second: Gnome Idle_594
+  - first:
+      213: 3820016843908001016
+    second: Gnome Idle_595
+  - first:
+      213: -2673012282464675204
+    second: Gnome Idle_596
+  - first:
+      213: -6297413485465299446
+    second: Gnome Idle_597
+  - first:
+      213: -6169818879545815706
+    second: Gnome Idle_598
+  - first:
+      213: -419403534653894216
+    second: Gnome Idle_599
+  - first:
+      213: 2890857978382445954
+    second: Gnome Idle_600
+  - first:
+      213: -5442846140936984318
+    second: Gnome Idle_601
+  - first:
+      213: 7356430252138282779
+    second: Gnome Idle_602
+  - first:
+      213: 177283788803363591
+    second: Gnome Idle_603
+  - first:
+      213: 8025765170351551332
+    second: Gnome Idle_604
+  - first:
+      213: -6740234752248377215
+    second: Gnome Idle_605
+  - first:
+      213: -1419353636094296030
+    second: Gnome Idle_606
+  - first:
+      213: -3250141148619857458
+    second: Gnome Idle_607
+  - first:
+      213: 4723603453750578295
+    second: Gnome Idle_608
+  - first:
+      213: -5755829423603578556
+    second: Gnome Idle_609
+  - first:
+      213: -6950588599922952762
+    second: Gnome Idle_610
+  - first:
+      213: -1936663213077692634
+    second: Gnome Idle_611
+  - first:
+      213: 4215679267097381525
+    second: Gnome Idle_612
+  - first:
+      213: 6813666550784003307
+    second: Gnome Idle_613
+  - first:
+      213: -7918946824293877316
+    second: Gnome Idle_614
+  - first:
+      213: 7541838719182148797
+    second: Gnome Idle_615
+  - first:
+      213: 2867985889122590757
+    second: Gnome Idle_616
+  - first:
+      213: 3207365484792038127
+    second: Gnome Idle_617
+  - first:
+      213: 165558780598876058
+    second: Gnome Idle_618
+  - first:
+      213: 230899793793009686
+    second: Gnome Idle_619
+  - first:
+      213: 6266189724560453435
+    second: Gnome Idle_620
+  - first:
+      213: 4269719915448138559
+    second: Gnome Idle_621
+  - first:
+      213: -323308680656668484
+    second: Gnome Idle_622
+  - first:
+      213: 9138074452242588524
+    second: Gnome Idle_623
+  - first:
+      213: 6089820566521356929
+    second: Gnome Idle_624
+  - first:
+      213: 838656794156367739
+    second: Gnome Idle_625
+  - first:
+      213: -5139099611224244826
+    second: Gnome Idle_626
+  - first:
+      213: -6668065688675431348
+    second: Gnome Idle_627
+  - first:
+      213: -7204271270487011480
+    second: Gnome Idle_628
+  - first:
+      213: -7679448845767215581
+    second: Gnome Idle_629
+  - first:
+      213: 2333884628009985085
+    second: Gnome Idle_630
+  - first:
+      213: -968139228695591547
+    second: Gnome Idle_631
+  - first:
+      213: -7957085863803182042
+    second: Gnome Idle_632
+  - first:
+      213: -6757971253435734321
+    second: Gnome Idle_633
+  - first:
+      213: -6896617322580993388
+    second: Gnome Idle_634
+  - first:
+      213: 5559527623639777210
+    second: Gnome Idle_635
+  - first:
+      213: 2282955180598640166
+    second: Gnome Idle_636
+  - first:
+      213: 5883030412914423212
+    second: Gnome Idle_637
+  - first:
+      213: 2293483690340192744
+    second: Gnome Idle_638
+  - first:
+      213: 5761724132512748300
+    second: Gnome Idle_639
+  - first:
+      213: -3580401214270001579
+    second: Gnome Idle_640
+  - first:
+      213: -991833103807697184
+    second: Gnome Idle_641
+  - first:
+      213: 3555383418189068842
+    second: Gnome Idle_642
+  - first:
+      213: 1997733226832561705
+    second: Gnome Idle_643
+  - first:
+      213: 8152737532569263433
+    second: Gnome Idle_644
+  - first:
+      213: 2315255466969148319
+    second: Gnome Idle_645
+  - first:
+      213: -6087440611895062803
+    second: Gnome Idle_646
+  - first:
+      213: 2783886277273172590
+    second: Gnome Idle_647
+  - first:
+      213: 6791857398401282043
+    second: Gnome Idle_648
+  - first:
+      213: -1777826647689602319
+    second: Gnome Idle_649
+  - first:
+      213: 7366561420609341259
+    second: Gnome Idle_650
+  - first:
+      213: -4967301229633118341
+    second: Gnome Idle_651
+  - first:
+      213: -7122760173870982346
+    second: Gnome Idle_652
+  - first:
+      213: -7304924133649485975
+    second: Gnome Idle_653
+  - first:
+      213: 2124306936202510920
+    second: Gnome Idle_654
+  - first:
+      213: 4862225644130810976
+    second: Gnome Idle_655
+  - first:
+      213: 1774026597680059021
+    second: Gnome Idle_656
+  - first:
+      213: 2556568680550056718
+    second: Gnome Idle_657
+  - first:
+      213: 5647840776618953036
+    second: Gnome Idle_658
+  - first:
+      213: 1724961189373138903
+    second: Gnome Idle_659
+  - first:
+      213: 6328042802249287829
+    second: Gnome Idle_660
+  - first:
+      213: 6669250547603888091
+    second: Gnome Idle_661
+  - first:
+      213: 6415753814381957640
+    second: Gnome Idle_662
+  - first:
+      213: 1774522973456696393
+    second: Gnome Idle_663
+  - first:
+      213: 6427705179938514138
+    second: Gnome Idle_664
+  - first:
+      213: 61318863510194541
+    second: Gnome Idle_665
+  - first:
+      213: -7149617465104586954
+    second: Gnome Idle_666
+  - first:
+      213: 9169236274561268510
+    second: Gnome Idle_667
+  - first:
+      213: 3961353413197209117
+    second: Gnome Idle_668
+  - first:
+      213: 3320647216891879254
+    second: Gnome Idle_669
+  - first:
+      213: 4670502274816259157
+    second: Gnome Idle_670
+  - first:
+      213: -7872770414407451979
+    second: Gnome Idle_671
+  - first:
+      213: 4934591051284136474
+    second: Gnome Idle_672
+  - first:
+      213: 7316527999191119861
+    second: Gnome Idle_673
+  - first:
+      213: 3416940356689165140
+    second: Gnome Idle_674
+  - first:
+      213: -8986654948876287408
+    second: Gnome Idle_675
+  - first:
+      213: 2684532256905147846
+    second: Gnome Idle_676
+  - first:
+      213: 8480958766371059327
+    second: Gnome Idle_677
+  - first:
+      213: 7953024324017305171
+    second: Gnome Idle_678
+  - first:
+      213: 2271153607131896042
+    second: Gnome Idle_679
+  - first:
+      213: 5626391826276345460
+    second: Gnome Idle_680
+  - first:
+      213: 8582524328501951457
+    second: Gnome Idle_681
+  - first:
+      213: -6099270635399017729
+    second: Gnome Idle_682
+  - first:
+      213: 4524277387741402230
+    second: Gnome Idle_683
+  - first:
+      213: 370685881316001876
+    second: Gnome Idle_684
+  - first:
+      213: -8243750484281730268
+    second: Gnome Idle_685
+  - first:
+      213: -413979096122907027
+    second: Gnome Idle_686
+  - first:
+      213: -6187199703415031631
+    second: Gnome Idle_687
+  - first:
+      213: 5562196802359470246
+    second: Gnome Idle_688
+  - first:
+      213: 6701773264052163891
+    second: Gnome Idle_689
+  - first:
+      213: 961620084236311207
+    second: Gnome Idle_690
+  - first:
+      213: 1340451790690641408
+    second: Gnome Idle_691
+  - first:
+      213: -4625187499173678161
+    second: Gnome Idle_692
+  - first:
+      213: -3942478031280171955
+    second: Gnome Idle_693
+  - first:
+      213: 395408247715614289
+    second: Gnome Idle_694
+  - first:
+      213: 1353562567745396279
+    second: Gnome Idle_695
+  - first:
+      213: -3049798514050754554
+    second: Gnome Idle_696
+  - first:
+      213: 3238266511965005682
+    second: Gnome Idle_697
+  - first:
+      213: 554480364171284252
+    second: Gnome Idle_698
+  - first:
+      213: -5044338470344045680
+    second: Gnome Idle_699
+  - first:
+      213: -3964724708496953620
+    second: Gnome Idle_700
+  - first:
+      213: -4850167516517161577
+    second: Gnome Idle_701
+  - first:
+      213: 5636974579546974305
+    second: Gnome Idle_702
+  - first:
+      213: -2109286321725009950
+    second: Gnome Idle_703
+  - first:
+      213: -7831090388887073507
+    second: Gnome Idle_704
+  - first:
+      213: -4659136576848611902
+    second: Gnome Idle_705
+  - first:
+      213: -4883757477284081977
+    second: Gnome Idle_706
+  - first:
+      213: -1458539417368050743
+    second: Gnome Idle_707
+  - first:
+      213: 4611148625541532478
+    second: Gnome Idle_708
+  - first:
+      213: -381383389410092990
+    second: Gnome Idle_709
+  - first:
+      213: 8243925389549162845
+    second: Gnome Idle_710
+  - first:
+      213: 1538992075877712994
+    second: Gnome Idle_711
+  - first:
+      213: 844158131534890691
+    second: Gnome Idle_712
+  - first:
+      213: 872730880070660962
+    second: Gnome Idle_713
+  - first:
+      213: 555864035425059459
+    second: Gnome Idle_714
+  - first:
+      213: -599786257016320247
+    second: Gnome Idle_715
+  - first:
+      213: -4344599566079112101
+    second: Gnome Idle_716
+  - first:
+      213: -341404852393166812
+    second: Gnome Idle_717
+  - first:
+      213: -8588683137993962110
+    second: Gnome Idle_718
+  - first:
+      213: -882065856364624667
+    second: Gnome Idle_719
+  - first:
+      213: -7976672468897300720
+    second: Gnome Idle_720
+  - first:
+      213: -7055689749341704011
+    second: Gnome Idle_721
+  - first:
+      213: -245417439167759044
+    second: Gnome Idle_722
+  - first:
+      213: 4091036937102949163
+    second: Gnome Idle_723
+  - first:
+      213: -1141367368013404446
+    second: Gnome Idle_724
+  - first:
+      213: 1568062877652044864
+    second: Gnome Idle_725
+  - first:
+      213: 1438756441564567214
+    second: Gnome Idle_726
+  - first:
+      213: 4288988899639091331
+    second: Gnome Idle_727
+  - first:
+      213: 5920357639162056601
+    second: Gnome Idle_728
+  - first:
+      213: 9124068957468630266
+    second: Gnome Idle_729
+  - first:
+      213: 5075748689630685763
+    second: Gnome Idle_730
+  - first:
+      213: -7214783647373430101
+    second: Gnome Idle_731
+  - first:
+      213: -7721800598442515836
+    second: Gnome Idle_732
+  - first:
+      213: -4330311770422716702
+    second: Gnome Idle_733
+  - first:
+      213: 702620819771621871
+    second: Gnome Idle_734
+  - first:
+      213: -6976773242871739648
+    second: Gnome Idle_735
+  - first:
+      213: -5011682916950238817
+    second: Gnome Idle_736
+  - first:
+      213: -1807937715772343210
+    second: Gnome Idle_737
+  - first:
+      213: -8973217422563734231
+    second: Gnome Idle_738
+  - first:
+      213: 3541117294995035002
+    second: Gnome Idle_739
+  - first:
+      213: 1550760801410548385
+    second: Gnome Idle_740
+  - first:
+      213: 1219468330366820006
+    second: Gnome Idle_741
+  - first:
+      213: -2026981470062221704
+    second: Gnome Idle_742
+  - first:
+      213: -7752166179230033337
+    second: Gnome Idle_743
+  - first:
+      213: 1529137724356926063
+    second: Gnome Idle_744
+  - first:
+      213: 3928038064618452056
+    second: Gnome Idle_745
+  - first:
+      213: 5187323989763077835
+    second: Gnome Idle_746
+  - first:
+      213: 1124486563677361776
+    second: Gnome Idle_747
+  - first:
+      213: -4728218501043583127
+    second: Gnome Idle_748
+  - first:
+      213: 8646784947785379823
+    second: Gnome Idle_749
+  - first:
+      213: 5614696796160021067
+    second: Gnome Idle_750
+  - first:
+      213: 5265240080477335858
+    second: Gnome Idle_751
+  - first:
+      213: -6413744952700159271
+    second: Gnome Idle_752
+  - first:
+      213: 7138998098708416791
+    second: Gnome Idle_753
+  - first:
+      213: -983329568971346334
+    second: Gnome Idle_754
+  - first:
+      213: -8223516015508169145
+    second: Gnome Idle_755
+  - first:
+      213: -935999281878251233
+    second: Gnome Idle_756
+  - first:
+      213: 5720781203831197896
+    second: Gnome Idle_757
+  - first:
+      213: -3132603990025826793
+    second: Gnome Idle_758
+  - first:
+      213: 8089995343815781200
+    second: Gnome Idle_759
+  - first:
+      213: -7584559757832934512
+    second: Gnome Idle_760
+  - first:
+      213: 1193618754932816084
+    second: Gnome Idle_761
+  - first:
+      213: -5473106346220202122
+    second: Gnome Idle_762
+  - first:
+      213: -4530799923772423179
+    second: Gnome Idle_763
+  - first:
+      213: -8805465838385312844
+    second: Gnome Idle_764
+  - first:
+      213: 6819599360094717728
+    second: Gnome Idle_765
+  - first:
+      213: -2059139702815988516
+    second: Gnome Idle_766
+  - first:
+      213: 6569566155808099205
+    second: Gnome Idle_767
+  - first:
+      213: -836820733623143352
+    second: Gnome Idle_768
+  - first:
+      213: 5692826861057518799
+    second: Gnome Idle_769
+  - first:
+      213: -2553297808819565423
+    second: Gnome Idle_770
+  - first:
+      213: 4015824612969646931
+    second: Gnome Idle_771
+  - first:
+      213: -3371357994734928311
+    second: Gnome Idle_772
+  - first:
+      213: -2852108588789497661
+    second: Gnome Idle_773
+  - first:
+      213: -729339780508078355
+    second: Gnome Idle_774
+  - first:
+      213: -4904139328995475984
+    second: Gnome Idle_775
+  - first:
+      213: 7455449762459295198
+    second: Gnome Idle_776
+  - first:
+      213: -444624965214015963
+    second: Gnome Idle_777
+  - first:
+      213: 3627430160391484829
+    second: Gnome Idle_778
+  - first:
+      213: -4236272943621477601
+    second: Gnome Idle_779
+  - first:
+      213: -5590255498423764578
+    second: Gnome Idle_780
+  - first:
+      213: 8517871987857606526
+    second: Gnome Idle_781
+  - first:
+      213: 1329217113276176607
+    second: Gnome Idle_782
+  - first:
+      213: 7305848514828472725
+    second: Gnome Idle_783
+  - first:
+      213: 4955158979744371891
+    second: Gnome Idle_784
+  - first:
+      213: -5776608093378181034
+    second: Gnome Idle_785
+  - first:
+      213: -2681603364927055648
+    second: Gnome Idle_786
+  - first:
+      213: 2815179785162708516
+    second: Gnome Idle_787
+  - first:
+      213: 7370263075450715673
+    second: Gnome Idle_788
+  - first:
+      213: -45511707118194652
+    second: Gnome Idle_789
+  - first:
+      213: -7292238217724134670
+    second: Gnome Idle_790
+  - first:
+      213: 2613985950364309733
+    second: Gnome Idle_791
+  - first:
+      213: -794027010934313408
+    second: Gnome Idle_792
+  - first:
+      213: -356683038919177259
+    second: Gnome Idle_793
+  - first:
+      213: -222565360071410753
+    second: Gnome Idle_794
+  - first:
+      213: 1043944168173239848
+    second: Gnome Idle_795
+  - first:
+      213: -8202969320513295861
+    second: Gnome Idle_796
+  - first:
+      213: -4277268246606168872
+    second: Gnome Idle_797
+  - first:
+      213: -1774142101284553201
+    second: Gnome Idle_798
+  - first:
+      213: -6175453404885003875
+    second: Gnome Idle_799
+  - first:
+      213: 6314293489856927969
+    second: Gnome Idle_800
+  - first:
+      213: -8802650558900005217
+    second: Gnome Idle_801
+  - first:
+      213: -320839892302722024
+    second: Gnome Idle_802
+  - first:
+      213: -2875856681359323964
+    second: Gnome Idle_803
+  - first:
+      213: 1351490727185876220
+    second: Gnome Idle_804
+  - first:
+      213: 3852706164485214781
+    second: Gnome Idle_805
+  - first:
+      213: -5072529150008309267
+    second: Gnome Idle_806
+  - first:
+      213: 1018093748256199947
+    second: Gnome Idle_807
+  - first:
+      213: 5143374866122506032
+    second: Gnome Idle_808
+  - first:
+      213: 8701729726147297133
+    second: Gnome Idle_809
+  - first:
+      213: 3509730197565188873
+    second: Gnome Idle_810
+  - first:
+      213: 8836407833440243533
+    second: Gnome Idle_811
+  - first:
+      213: 7966674374254347928
+    second: Gnome Idle_812
+  - first:
+      213: -272910373817296562
+    second: Gnome Idle_813
+  - first:
+      213: -320444070088906449
+    second: Gnome Idle_814
+  - first:
+      213: 3586229740583433087
+    second: Gnome Idle_815
+  - first:
+      213: 5108054686120860233
+    second: Gnome Idle_816
+  - first:
+      213: 2302411017056000388
+    second: Gnome Idle_817
+  - first:
+      213: -473265287138927767
+    second: Gnome Idle_818
+  - first:
+      213: -1843145892547578162
+    second: Gnome Idle_819
+  - first:
+      213: -5865063600506679230
+    second: Gnome Idle_820
+  - first:
+      213: 1734574713456580867
+    second: Gnome Idle_821
+  - first:
+      213: -6373239866337748741
+    second: Gnome Idle_822
+  - first:
+      213: 6475281065918834983
+    second: Gnome Idle_823
+  - first:
+      213: 849594483441266972
+    second: Gnome Idle_824
+  - first:
+      213: -2030593355946558274
+    second: Gnome Idle_825
+  - first:
+      213: -3502146317453550670
+    second: Gnome Idle_826
+  - first:
+      213: -7053918470685500602
+    second: Gnome Idle_827
+  - first:
+      213: -3319300463999767479
+    second: Gnome Idle_828
+  - first:
+      213: -8265702248850073492
+    second: Gnome Idle_829
+  - first:
+      213: 9175528172020501520
+    second: Gnome Idle_830
+  - first:
+      213: -1601238341727380405
+    second: Gnome Idle_831
+  - first:
+      213: 730890965169856991
+    second: Gnome Idle_832
+  - first:
+      213: -1068249420052484154
+    second: Gnome Idle_833
+  - first:
+      213: -5575633648391606722
+    second: Gnome Idle_834
+  - first:
+      213: 4202926594709702789
+    second: Gnome Idle_835
+  - first:
+      213: 1918598353183482511
+    second: Gnome Idle_836
+  - first:
+      213: -4029643556473856195
+    second: Gnome Idle_837
+  - first:
+      213: -783321572606175322
+    second: Gnome Idle_838
+  - first:
+      213: -1139647844945302038
+    second: Gnome Idle_839
+  - first:
+      213: 4370118569005198257
+    second: Gnome Idle_840
+  - first:
+      213: 588114582664789840
+    second: Gnome Idle_841
+  - first:
+      213: 1758984626207422026
+    second: Gnome Idle_842
+  - first:
+      213: 8424446464006026802
+    second: Gnome Idle_843
+  - first:
+      213: -8476147960731484412
+    second: Gnome Idle_844
+  - first:
+      213: -2410473483491617170
+    second: Gnome Idle_845
+  - first:
+      213: 8638550284254793356
+    second: Gnome Idle_846
+  - first:
+      213: 287344822117309263
+    second: Gnome Idle_847
+  - first:
+      213: -7918134555337706915
+    second: Gnome Idle_848
+  - first:
+      213: 5827812781425405982
+    second: Gnome Idle_849
+  - first:
+      213: 5073540667868824694
+    second: Gnome Idle_850
+  - first:
+      213: 8475005590441587658
+    second: Gnome Idle_851
+  - first:
+      213: -4439049047510472864
+    second: Gnome Idle_852
+  - first:
+      213: -5242573167542586813
+    second: Gnome Idle_853
+  - first:
+      213: 6175001267385385915
+    second: Gnome Idle_854
+  - first:
+      213: 6387237251658397376
+    second: Gnome Idle_855
+  - first:
+      213: 875583881650598383
+    second: Gnome Idle_856
+  - first:
+      213: 1532930211790952806
+    second: Gnome Idle_857
+  - first:
+      213: 282215344606563218
+    second: Gnome Idle_858
+  - first:
+      213: -2663914334004886452
+    second: Gnome Idle_859
+  - first:
+      213: 7304424861483014578
+    second: Gnome Idle_860
+  - first:
+      213: 7312513544600697399
+    second: Gnome Idle_861
+  - first:
+      213: -7778191773457611469
+    second: Gnome Idle_862
+  - first:
+      213: -6367346268800713194
+    second: Gnome Idle_863
+  - first:
+      213: -9166550961424630695
+    second: Gnome Idle_864
+  - first:
+      213: -9158876146014993970
+    second: Gnome Idle_865
+  - first:
+      213: -1955113966013744312
+    second: Gnome Idle_866
+  - first:
+      213: -298037023794564230
+    second: Gnome Idle_867
+  - first:
+      213: -392917214470610653
+    second: Gnome Idle_868
+  - first:
+      213: -7865317634243650528
+    second: Gnome Idle_869
+  - first:
+      213: 700226201548515092
+    second: Gnome Idle_870
+  - first:
+      213: 8821123845040490763
+    second: Gnome Idle_871
+  - first:
+      213: 5069421976272636045
+    second: Gnome Idle_872
+  - first:
+      213: 3914414563492972893
+    second: Gnome Idle_873
+  - first:
+      213: -7650277658278485346
+    second: Gnome Idle_874
+  - first:
+      213: -4323590454136787071
+    second: Gnome Idle_875
+  - first:
+      213: 8807657609271096
+    second: Gnome Idle_876
+  - first:
+      213: -694906748411804991
+    second: Gnome Idle_877
+  - first:
+      213: -2559847291487983801
+    second: Gnome Idle_878
+  - first:
+      213: 7283446966021402486
+    second: Gnome Idle_879
+  - first:
+      213: 2853266596495950272
+    second: Gnome Idle_880
+  - first:
+      213: -4182723054898664512
+    second: Gnome Idle_881
+  - first:
+      213: 2148328522385057862
+    second: Gnome Idle_882
+  - first:
+      213: 2751190772650083981
+    second: Gnome Idle_883
+  - first:
+      213: -1404408248945231943
+    second: Gnome Idle_884
+  - first:
+      213: 2057335458898128984
+    second: Gnome Idle_885
+  - first:
+      213: -3909240883964050197
+    second: Gnome Idle_886
+  - first:
+      213: -363955105580613012
+    second: Gnome Idle_887
+  - first:
+      213: 998023813894590236
+    second: Gnome Idle_888
+  - first:
+      213: -5906463883423438327
+    second: Gnome Idle_889
+  - first:
+      213: -1385690900194554915
+    second: Gnome Idle_890
+  - first:
+      213: 4443325667916168739
+    second: Gnome Idle_891
+  - first:
+      213: 743893486789326066
+    second: Gnome Idle_892
+  - first:
+      213: -2338461570274449470
+    second: Gnome Idle_893
+  - first:
+      213: 6044494437354211173
+    second: Gnome Idle_894
+  - first:
+      213: 8323311458057774639
+    second: Gnome Idle_895
+  - first:
+      213: 4576733541205001336
+    second: Gnome Idle_896
+  - first:
+      213: -6837386582680084028
+    second: Gnome Idle_897
+  - first:
+      213: 5831442506638585418
+    second: Gnome Idle_898
+  - first:
+      213: 1400621808477184327
+    second: Gnome Idle_899
+  - first:
+      213: -1571790710963952246
+    second: Gnome Idle_900
+  - first:
+      213: -8944831825875635386
+    second: Gnome Idle_901
+  - first:
+      213: 4870168086314063298
+    second: Gnome Idle_902
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gnome Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bccb391403f17b20800000000000000
+      internalID: 3130550414927973559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnome Idle_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08eb919fe70ab020800000000000000
+      internalID: 2358206080403367946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnome Idle_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c585fd7c66fbfa920800000000000000
+      internalID: 3003829924640282716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnome Idle_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0554deef7a7e9e0800000000000000
+      internalID: -1592119229907906375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnome Idle_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2283bc1d5af08fbe0800000000000000
+      internalID: -1443386475708467166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnome Idle_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1ce37023d055860800000000000000
+      internalID: 7517929661485990397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnome Idle_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589a5a547082ad510800000000000000
+      internalID: 1574615031417776517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

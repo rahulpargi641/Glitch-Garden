@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Lizard
+    uniqueID: 529230219
+    locked: 0
+  - name: New Layer
+    uniqueID: 3182990135
+    locked: 0
